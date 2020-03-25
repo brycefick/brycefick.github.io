@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a sandbox. It is place for me to work on and share my ideas,
   as well as a place for me to explore web applications. I catagorize my
   interests in four main catagories: Law, Outdoors, Travel, and Technology.
-  Broad. I know, which is why this website is not intended to promote my personalize
+  Broad, I know, which is why this website is not intended to promote my personalize
   brand, monetize content, or generate leads. Feel free to look around.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
